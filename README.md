@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/theerapat.me?mibextid=ptkpj9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/theerapat.me?mibextid=ptkpj9" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hnaxny.05?igsh=mwyzmwqybne5zmzwag%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hnaxny.05?igsh=mwyzmwqybne5zmzwag%3d%3d&utm_source=qr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uce4zt0x8frn4nge9_5q4--a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uce4zt0x8frn4nge9_5q4--a" height="30" width="40" /></a>
+<a href="https://fb.com/theerapat.me?mibextid=ptkpj9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/theerapat.me?mibextid=ptkpj9" height="30" width="40" /></a>
+<a href="https://instagram.com/hnawny.yy?igsh=mwyzmwqybne5zmzwag%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hnaxny.05?igsh=mwyzmwqybne5zmzwag%3d%3d&utm_source=qr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uce4zt0x8frn4nge9_5q4--a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uce4zt0x8frn4nge9_5q4--a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
