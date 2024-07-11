@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HnawNy</h1>
+<h1 align="center">Hi 👋, I'm Hnawny</h1>
 <h3 align="center">Hummmmmmm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnaxny&label=Profile%20views&color=3a0eb4&style=flat" alt="hnaxny" /> </p>
