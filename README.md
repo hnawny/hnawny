@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **me@hnawny.xyz**
+- 📫 How to reach me **teerapat.tt@hnawny.in.th**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
